@@ -11,9 +11,13 @@ We hope that this is something you’ll find useful as well. Join us on this adv
 ---
 
 **Sean**
+
 Website: http://www.pixelmetry.com/
+
 Github: https://github.com/aliken9
 
 **Greg**
+
 Website: http://gregwong.me
+
 Github: https://github.com/gregorywong/
