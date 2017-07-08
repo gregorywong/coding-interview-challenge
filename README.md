@@ -6,7 +6,9 @@ In 100 days, we’ll do 100 coding “interviews” - averaging out to 1 per day
 
 As a developer or engineer, it’s very important to be able to communicate your ideas and reasoning. We undertook this challenge because we want to improve at structuring our thoughts and expressing ourselves. **To motivate ourselves to do well and to hold each other accountable, we’ll stream all 100 of our “interviews” - mistakes and blunders included!**
 
-We hope that this is something you’ll find useful as well. Join us on this adventure and see where it leads!
+We hope that this is something you’ll find useful as well.
+
+Join us on this adventure and see where it leads!
 
 ## How to Reach Us
 
