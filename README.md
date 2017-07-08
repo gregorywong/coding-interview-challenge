@@ -9,7 +9,7 @@ As a developer or engineer, it’s very important to be able to communicate your
 We hope that this is something you’ll find useful as well. Join us on this adventure and see where it leads!
 
 ![alt text](https://avatars0.githubusercontent.com/u/463262?v=3&s=100 "Sean") | ![alt text](https://avatars3.githubusercontent.com/u/1437804?v=3&s=100 "Greg")
------------- | -------------
-**Sean** | **Greg**
+:------------: | :-------------:
+ **Sean**  | **Greg**
 Website: http://www.pixelmetry.com/ | Website: http://gregwong.me
 Github: https://github.com/aliken9 | Github: https://github.com/gregorywong/
