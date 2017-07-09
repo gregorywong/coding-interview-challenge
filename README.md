@@ -13,6 +13,9 @@ We hope that this is something you’ll find useful as well.
 
 Join us on this adventure and see where it leads!
 
+### Our Youtube Channel
+https://www.youtube.com/channel/UCCCa2IzoUOGawqA-ya35b-Q
+
 ### How to Reach Us
 
 ![alt text](https://avatars0.githubusercontent.com/u/463262?v=3&s=100 "Sean") | ![alt text](https://avatars3.githubusercontent.com/u/1437804?v=3&s=100 "Greg")
