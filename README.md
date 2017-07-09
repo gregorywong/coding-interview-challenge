@@ -14,7 +14,11 @@ We hope that this is something you’ll find useful as well.
 Join us on this adventure and see where it leads!
 
 ### Our Youtube Channel
-https://www.youtube.com/channel/UCCCa2IzoUOGawqA-ya35b-Q
+
+![alt text](https://lh3.googleusercontent.com/-xrG7CBy-2zE/AAAAAAAAAAI/AAAAAAAAABA/fLR-wZ69wmA/s100-p-rw-no/photo.jpg "100-day Coding Interview Challenge") |
+:------------: | 
+**100-day Coding Interview Challenge** |
+Youtube: [100-day Coding Interview Challenge](https://www.youtube.com/channel/UCCCa2IzoUOGawqA-ya35b-Q) |
 
 ### How to Reach Us
 
