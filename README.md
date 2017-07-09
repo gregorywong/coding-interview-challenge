@@ -15,7 +15,7 @@ Join us on this adventure and see where it leads!
 
 ### Our Youtube Channel
 
-![alt text](https://lh3.googleusercontent.com/-xrG7CBy-2zE/AAAAAAAAAAI/AAAAAAAAABA/fLR-wZ69wmA/s100-p-rw-no/photo.jpg "100-day Coding Interview Challenge") |
+[![alt text](https://lh3.googleusercontent.com/-xrG7CBy-2zE/AAAAAAAAAAI/AAAAAAAAABA/fLR-wZ69wmA/s100-p-rw-no/photo.jpg "100-day Coding Interview Challenge")](https://www.youtube.com/channel/UCCCa2IzoUOGawqA-ya35b-Q) |
 :------------: | 
 **100-day Coding Interview Challenge** |
 Youtube: [100-day Coding Interview Challenge](https://www.youtube.com/channel/UCCCa2IzoUOGawqA-ya35b-Q) |
