@@ -1,0 +1,3 @@
+// question 12
+// video: https://www.youtube.com/watch?v=udCHUkl0hZQ
+// logic puzzle; no coding done
