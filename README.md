@@ -2,6 +2,9 @@
 
 Hi! We’re Sean and Greg. Join us as we take on the **100-day Coding Interview Challenge**!
 
+### *** Update : We'll be putting this challenge on hold for now, as Sean has accepted a job offer. Congratulations Sean! ***
+
+
 ### The Challenge
 
 In 100 days, we’ll do 100 coding “interviews” - averaging out to 1 per day! One of us will prepare a question and solution in advance, but the other one will see it for the very first time. (Just like in actual coding interviews, where you’re expected to solve a problem after seeing it only once!)
